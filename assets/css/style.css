@@ -1,9 +1,13 @@
-body {
-  font-family: Arial, sans-serif;
-  background-color: #f4f4f4;
-  margin: 0;
-  padding: 0;
+/* body{
+    background-color: lightgrey;
+    background-image: url("../images/background-image.jpg");
+} */
+
+body{
+    background-color: lightgrey;
+    background-image: url("/assets/images/background-img.jpg");
 }
-h1 {
-    color: #333;
+
+h2 {
+    color: orangered;
 }
